@@ -1,0 +1,6 @@
+{
+  "name": "TikSave Pro",
+  "description": "Premium social media video downloader and media saver with platform detection, live progress, history, and favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

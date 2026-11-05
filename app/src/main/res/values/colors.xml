@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tiksave_bg">#FF0B0813</color>
+    <color name="tiksave_surface">#FF161026</color>
+    <color name="tiksave_surface_light">#FF221A3B</color>
+    <color name="tiksave_purple">#FFA855F7</color>
+    <color name="tiksave_purple_glow">#FF8B5CF6</color>
+    <color name="tiksave_magenta">#FFEC4899</color>
+    <color name="tiksave_magenta_glow">#FFD946EF</color>
+    <color name="tiksave_cyan">#FF06B6D4</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>

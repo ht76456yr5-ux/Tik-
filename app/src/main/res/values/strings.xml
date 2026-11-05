@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">TikSave Pro</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_downloads">Downloads</string>
+    <string name="nav_history">History</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_pro">TikSave Pro</string>
+    <string name="nav_settings">Settings</string>
+
+    <string name="home_hero_title">Fast &amp; Free Social Media Saver</string>
+    <string name="home_hero_subtitle">Download public media from TikTok, Instagram, YouTube &amp; more in original quality.</string>
+    <string name="input_placeholder">Paste video or post link here…</string>
+    <string name="btn_paste">Paste</string>
+    <string name="btn_clear">Clear</string>
+    <string name="btn_fetch">Fetch Media</string>
+    <string name="btn_download_video">Download Video</string>
+    <string name="btn_download_audio">Download Audio (MP3)</string>
+    <string name="btn_download_hd">Download HD (Pro)</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_retry">Retry</string>
+    <string name="btn_open">Open File</string>
+    <string name="btn_share">Share</string>
+    <string name="btn_delete">Delete</string>
+
+    <string name="status_detecting">Detecting platform…</string>
+    <string name="status_extracting">Resolving video streams…</string>
+    <string name="status_downloading">Downloading media…</string>
+    <string name="status_completed">Download completed!</string>
+    <string name="status_failed">Download failed</string>
+    <string name="status_saved_to_gallery">Media saved to Downloads / TikSavePro</string>
+
+    <string name="platform_tiktok">TikTok</string>
+    <string name="platform_instagram">Instagram</string>
+    <string name="platform_facebook">Facebook</string>
+    <string name="platform_youtube">YouTube</string>
+    <string name="platform_pinterest">Pinterest</string>
+    <string name="platform_whatsapp">WhatsApp Status</string>
+    <string name="platform_unknown">General Web</string>
+
+    <string name="recent_downloads">Recent Downloads</string>
+    <string name="no_downloads_yet">No downloads yet. Paste a link above to get started!</string>
+    <string name="no_favorites_yet">No favorite videos bookmarked. Tap the star icon on any video to save here!</string>
+    <string name="no_history_yet">Your download history is clean.</string>
+
+    <string name="pro_title">TikSave Pro Membership</string>
+    <string name="pro_subtitle">Supercharge your downloads with zero ads, ultra HD quality, and lightning speeds.</string>
+    <string name="pro_badge">PRO UNLOCKED</string>
+    <string name="free_badge">FREE TIER</string>
+    <string name="pro_ad_free">100% Ad-Free Experience</string>
+    <string name="pro_ultra_hd">Full HD &amp; 4K Support where available</string>
+    <string name="pro_batch">Batch Link Queue Processing</string>
+    <string name="pro_speed">Max Speed Multi-Thread Engine</string>
+    <string name="pro_themes">Exclusive Cyber Glow Themes</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_dark_mode">Dark Theme</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_download_dir">Download Location</string>
+    <string name="settings_clear_history">Clear Download History</string>
+    <string name="settings_clear_cache">Clear App Cache</string>
+    <string name="settings_about">About TikSave Pro</string>
+    <string name="settings_privacy">Privacy Policy</string>
+    <string name="settings_contact">Help &amp; Contact Us</string>
+    <string name="settings_app_info">Version 2.4.0 (Build 2026)</string>
+
+    <string name="privacy_title">Privacy Policy &amp; Terms</string>
+    <string name="privacy_policy_body">TikSave Pro respects creators and copyright laws. We only process public media and do not bypass DRM, passwords, or private content protections. No personal credentials are saved or collected.</string>
+
+    <string name="about_title">About TikSave Pro</string>
+    <string name="about_body">TikSave Pro is designed to help users archive their favorite public videos, audio tracks, and statuses directly onto Android storage safely and swiftly.</string>
+
+    <string name="contact_title">Contact &amp; Support</string>
+    <string name="contact_send">Send Feedback</string>
+</resources>
